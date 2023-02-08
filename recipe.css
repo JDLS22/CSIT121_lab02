@@ -1,8 +1,9 @@
 body{background-color:indianred; color:yellowgreen; margin:auto;}
-h1{text-transform:uppercase;}
-li{font-style:italic; list-style-type:none;}
-p{font-family:tahoma;}
+h1{text-transform:uppercase; text-shadow:3px 3px 6px #000033;}
+h2{text-shadow:2px 2px 4px #000033;}
+h3{text-shadow:1px 1px 3px #000033;}
+li{font-style:italic; list-style-type:none; text-shadow:1px 1px 1px #000000;}
+p{font-family:tahoma; text-shadow:1px 1px 1px #000000;}
 sub{font-size:x-small}
 ul{text-indent:-2.4em;}
 #wrapper{text-align:center;}
-
